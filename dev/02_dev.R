@@ -38,9 +38,15 @@ gert::git_config_set(
 # renv::install("ThinkR-open/attachment")
 # install.packages("checkhelper", repos = getOption("repos")["thinkropen"])
 
+# attachment::att_amend_desc(
+#   extra.suggests = c("pkgload", "DiagrammeR",
+#                      "DiagrammeRsvg", "dbplyr", "stringi",
+#                      "rlang", "future", "promises" # why ?
+#   )
+# )
 attachment::att_amend_desc(
   extra.suggests = c("pkgload", "DiagrammeR",
-                     "DiagrammeRsvg", "dbplyr", "stringi", 
+                     "dbplyr", "stringi", 
                      "rlang", "future", "promises" # why ?
   )
 )
