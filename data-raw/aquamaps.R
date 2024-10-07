@@ -21,7 +21,6 @@
 # # initial run-once step required to install remote db locally
 # download_db(force = TRUE)
 
- #essai
 
 # active the connection to the downloaded database:
 default_db("sqlite")
