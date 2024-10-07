@@ -807,6 +807,8 @@
       "RemoteHost": "api.github.com",
       "RemoteRepo": "diades.atlas",
       "RemoteUsername": "inrae",
+      "RemotePkgRef": "inrae/diades.atlas@1347b0abebf958a984fcf143270407fdca13520c",
+      "RemoteRef": "1347b0abebf958a984fcf143270407fdca13520c",
       "RemoteSha": "1347b0abebf958a984fcf143270407fdca13520c",
       "Requirements": [
         "DBI",
@@ -850,7 +852,7 @@
         "w3css",
         "whereami"
       ],
-      "Hash": "18bd53d14a52011fd2cef5eda8e3f5d8"
+      "Hash": "cb45679f1926229a1f3b0690027d0213"
     },
     "dichromat": {
       "Package": "dichromat",
@@ -3253,6 +3255,8 @@
       "RemoteHost": "api.github.com",
       "RemoteRepo": "w3css",
       "RemoteUsername": "thinkr-open",
+      "RemotePkgRef": "thinkr-open/w3css@aae9624b622039f30161683770e8b064798845d7",
+      "RemoteRef": "aae9624b622039f30161683770e8b064798845d7",
       "RemoteSha": "aae9624b622039f30161683770e8b064798845d7",
       "Requirements": [
         "R",
@@ -3260,7 +3264,7 @@
         "htmltools",
         "shiny"
       ],
-      "Hash": "b4da3c96199e45bb78e7cff5b3aea357"
+      "Hash": "ba5fe3b088b62d865a46405e90e26685"
     },
     "waldo": {
       "Package": "waldo",
